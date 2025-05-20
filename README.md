@@ -1,2 +1,2 @@
-# project01
+# job-analysis-app
 Job Description Analyzer
